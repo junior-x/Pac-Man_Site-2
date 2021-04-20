@@ -1,5 +1,8 @@
 # 👾 PAC-MAN THEME (SITE)
 
+Site creation for Pac-Man Theme.
+
+
 v 0.0.1
 
 *Getting some bones for the site, by now I only got the face for the site coding w/ ReactJs.App*
